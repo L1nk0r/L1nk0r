@@ -24,9 +24,9 @@
 
 ### :man_technologist: About Me : I am a junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m studind in HSE and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying in HSE and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I making some Pet projects for my CV.
+- :zap: In my free time, I make some Pet projects for my CV.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-l1nk0r-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/marshalles)
 
