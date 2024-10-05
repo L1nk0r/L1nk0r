@@ -5,11 +5,7 @@
     <a href="https://t.me/marshalles">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/shadowsdietwicee">
-      <img src="https://img.shields.io/badge/VKontante-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=l1nk0r&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
